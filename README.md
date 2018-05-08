@@ -9,15 +9,11 @@ demo for phase 1 : https://www.youtube.com/watch?v=jao47abaLv8
 Phase 2 : 
 
 Requirements for phase 2 were to use User Defined Functions in SparkSQL to get
-1. All points that lie in given rectangle
-2. All points that are within given range for given point.
+1. All points from dataset that lie in given rectangle coordinates
+2. All points from dataset that lie within given range for given point.
 
 
-#### Version history
-v1.1, Nov 16, Fix a bug in "Entrace.scala"
-v1.0, Nov 13, Initial version
-
-
+Phase 3 :
 ## Requirement
 
 In this phase, you are required to do spatial hot spot analysis. In particular, you need to complete two different hot spot analysis tasks 
