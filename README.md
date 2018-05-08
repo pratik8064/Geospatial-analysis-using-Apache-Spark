@@ -1,4 +1,4 @@
-# CSE512-Project-Hotspot-Analysis-Template
+# CSE512 Project
 
 Phase 1 : 
 
